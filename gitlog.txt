@@ -1,0 +1,4 @@
+9964154 added 3 examples of alias
+526afc0 added ssh key
+3937a44 added script
+
